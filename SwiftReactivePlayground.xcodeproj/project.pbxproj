@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8DFA00001B7E7AFD00B3DCF0 /* RWDummySignInService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DFAFFFF1B7E7AFD00B3DCF0 /* RWDummySignInService.swift */; };
 		8DFAFFD21B7E76B100B3DCF0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DFAFFD11B7E76B100B3DCF0 /* AppDelegate.swift */; };
 		8DFAFFD41B7E76B100B3DCF0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DFAFFD31B7E76B100B3DCF0 /* ViewController.swift */; };
 		8DFAFFD71B7E76B100B3DCF0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DFAFFD51B7E76B100B3DCF0 /* Main.storyboard */; };
@@ -47,6 +48,7 @@
 		8DFAFFED1B7E76B100B3DCF0 /* SwiftReactivePlaygroundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftReactivePlaygroundUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DFAFFF11B7E76B100B3DCF0 /* SwiftReactivePlaygroundUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftReactivePlaygroundUITests.swift; sourceTree = "<group>"; };
 		8DFAFFF31B7E76B100B3DCF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DFAFFFF1B7E7AFD00B3DCF0 /* RWDummySignInService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RWDummySignInService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8DFAFFD81B7E76B100B3DCF0 /* Assets.xcassets */,
 				8DFAFFDA1B7E76B100B3DCF0 /* LaunchScreen.storyboard */,
 				8DFAFFDD1B7E76B100B3DCF0 /* Info.plist */,
+				8DFAFFFF1B7E7AFD00B3DCF0 /* RWDummySignInService.swift */,
 			);
 			path = SwiftReactivePlayground;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			files = (
 				8DFAFFD41B7E76B100B3DCF0 /* ViewController.swift in Sources */,
 				8DFAFFD21B7E76B100B3DCF0 /* AppDelegate.swift in Sources */,
+				8DFA00001B7E7AFD00B3DCF0 /* RWDummySignInService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
