@@ -12,7 +12,6 @@ typealias RWSignInResponse = Bool? -> Void
 
 class RWDummySignInService: NSObject {
     
-    //- (void)signInWithUsername:(NSString *)username password:(NSString *)password complete:(RWSignInResponse)completeBlock
     func signInWithUsername(username: String, password: String, complete: RWSignInResponse) {
         let delayInSeconds = 2.0
         let popTime = dispatch_time(DISPATCH_TIME_NOW, Int64(Double(NSEC_PER_SEC) * delayInSeconds))
