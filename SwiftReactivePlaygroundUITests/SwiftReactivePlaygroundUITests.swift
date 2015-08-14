@@ -3,7 +3,7 @@
 //  SwiftReactivePlaygroundUITests
 //
 //  Created by Roberto Osorio Goenaga on 8/14/15.
-//  Copyright © 2015 Roberto Osorio Goenaga. All rights reserved.
+//  http://www.raywenderlich.com/62699/reactivecocoa-tutorial-pt1
 //
 
 import XCTest
