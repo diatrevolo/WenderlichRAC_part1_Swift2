@@ -2,7 +2,7 @@
 //  RWDummySignInService.swift
 //  SwiftReactivePlayground
 //
-//  Created by Roberto Osorio Goenaga on 8/14/15.
+//  Created by Roberto Osorio Goenaga, original Objective-C by  Colin Eberhardt  for Ray Wenderlich on 8/14/15.
 //  http://www.raywenderlich.com/62699/reactivecocoa-tutorial-pt1
 //
 
